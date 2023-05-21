@@ -1,4 +1,4 @@
-# Projekt QA (Kurs GoIT)
+# Projekt KAPU$TA (Kurs GoIT)
 Repozytorium zawiera dokumentację projektu polegającego na przetestowaniu działania i zgodności z wymaganiami stworzonej na te potrzeby aplikacji internetowej.
 Projekt stanowił końcowe zadanie na kursie QA Engineer. <br>
 W repozytorium znajdują się:
